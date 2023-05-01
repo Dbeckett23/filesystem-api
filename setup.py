@@ -11,7 +11,7 @@ setup(
     packages=['filesystem'],
     include_package_data=True,
     install_requires=[
-        'Flask==1.1.1',
+        'Flask==2.3.2',
         'html5validator==0.3.3',
         'pytest==5.3.5',
         'pytest-flask==0.15.1',
