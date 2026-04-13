@@ -13,7 +13,7 @@ setup(
     install_requires=[
         'Flask==1.1.1',
         'html5validator==0.3.3',
-        'pytest==5.3.5',
+        'pytest==9.0.3',
         'pytest-flask==0.15.1',
     ],
 )
